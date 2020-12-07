@@ -1,0 +1,39 @@
+{
+    "team": [
+        {
+            "codigo": "1",
+            "nombre": "Harvy Santiago Rosero Trejo",
+            "descripcion": "Nacionalidad: Colombiano</br>Edad: 20 años</br>Hobbie: Dibujar</br>Hobbie: Volleyball</br>Lenguajes: C++</br>Lenguajes: Java</br>Lenguajes: SQL</br>",
+            "rol": "Desarrollador FullStack",
+            "imagen":"images/jeff.jpg"
+        },
+        {
+            "codigo": "2",
+            "nombre": "Juan Sebastián Franco Cervera",
+            "descripcion": "Nacionalidad: Colombiano</br>Edad: 23 años</br>Hobbie: Guitarra</br>Hobbie: Fútbol</br>Profesión: Ingeniero Civil</br>",
+            "rol": "Desarrollador FullStack",
+            "imagen":"images/bill.jpg"
+        },
+        {
+            "codigo": "3",
+            "nombre": "Rodrigo Gallo Vega",
+            "descripcion": "Nacionalidad: Colombiano</br>Edad: 43 años</br>Hobbie: Correr</br>Hobbie: Ciclismo</br>Lenguajes: Python</br>Lenguajes: Java</br>Lenguajes: SQL</br>Lenguajes: Javascript</br>",
+            "rol": "Desarrollador FullStack",
+            "imagen":"images/Larry.jpg"
+        },
+        {
+            "codigo": "4",
+            "nombre": "Neron Navarrete",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris condimentum ac elit et accumsan.",
+            "rol": "Accionista",
+            "imagen":"images/mark.jpg"
+        },
+        {
+            "codigo": "5",
+            "nombre": "Neron Navarrete",
+            "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris condimentum ac elit et accumsan.",
+            "rol": "Accionista",
+            "imagen":"images/elon.jpg"
+        }
+    ]
+}
