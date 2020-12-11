@@ -21,7 +21,7 @@
                       <SiteNews v-for="noticia in noticias.articles" :key="noticia.id" :noticia="noticia"></SiteNews>
                   </div>
               </div>
-          </section>
+          </section>          
           <section id="team">
               <div class="section-3 mt-2">
                   <p class="section-text">Equipo</p>
