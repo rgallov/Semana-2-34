@@ -1,8 +1,8 @@
-# Proyecto MINTIC - UTP - Ciclo 3 - Semana1 - Grupo 34
+# Proyecto MINTIC - UTP - Ciclo 3 - Semana2 - Grupo 34
 
 ## Descripción
 
-Elaborar una página inicial HTML5 con estilos
+Elaborar una página con componentes vue
 
 ## Colaboradores
 Rodrigo Gallo - Full Stack developer
